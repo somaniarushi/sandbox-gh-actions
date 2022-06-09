@@ -1,2 +1,2 @@
 hello:
-	echo hello
+	npx ts-node main.ts
